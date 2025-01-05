@@ -1,10 +1,10 @@
 export const strings = {
-  title: "Wedding RSVP",
+  title: "We’re Counting Down the Days to HangOut with You Guyzzz! 🎉",
   description:
-    "We're excited to celebrate our special day with you! Please let us know if you can make it.",
-  eventDate: "2024-06-15", // YYYY-MM-DD format
+    "Your presence will make our celebration even more magical. Kindly let us know if you’ll be joining us by RSVPing today!🌟 Save the date, mark your calendar, and get ready for an unforgettable day filled with joy, laughter, and memories to cherish forever. Can’t wait to see you there! ❤️",
+  eventDate: "2025-01-10", // YYYY-MM-DD format
   eventDateLabel: "Event Date",
-  eventLocation: "Central Park, New York, NY 10022",
+  eventLocation: "Radisson Blu Hotel, Ranchi, Jharkhand",
   eventLocationLabel: "Event Location",
   nameLabel: "Full Name",
   emailLabel: "Email Address",
